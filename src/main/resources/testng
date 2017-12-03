@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TEST">
+    <test name="Driver">
+        <classes>
+            <class name="com.playtika.oz.Application"></class>
+        </classes>
+    </test>
+
+
+</suite>
